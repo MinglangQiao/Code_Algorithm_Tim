@@ -16,4 +16,3 @@
 * [MagnIeeT / AlgorithmSpecializationStanford](https://github.com/MagnIeeT/AlgorithmSpecializationStanford)
 * [sanket407 / Coursera-Algorithms-Specialization](https://github.com/sanket407/Coursera-Algorithms-Specialization)
 * [CtheSky/Coursera-Algorithms-Specialization](https://github.com/CtheSky/Coursera-Algorithms-Specialization)
-* [CtheSky / Coursera-Algorithms-Specialization](https://github.com/CtheSky/Coursera-Algorithms-Specialization)
